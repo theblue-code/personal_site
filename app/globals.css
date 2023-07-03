@@ -16,6 +16,11 @@
   }
 }
 
+/* body {
+  color: aliceblue;
+  background-color: #020617;
+} */
+
 body {
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
