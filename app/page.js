@@ -50,7 +50,7 @@ export default function Home() {
               <span className="text-green-400">computer:~$</span>
             </div>
           </div>
-          <div className="hidden sm:flex flex-col items-center">
+          <div className="flex flex-col items-center">
                 <Image
                 src={whatsapp6}
                 width={200}
